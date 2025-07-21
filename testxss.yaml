@@ -2,7 +2,7 @@ swagger: '2.0'
 info:
   title: Classic API Resource Documentation
   description: |
-    <math><mtext><option><FAKEFAKE><option></option><mglyph><svg><mtext><style><a title="</style><img src='#' onerror='alert(1)'>">
+    <math><mtext><table><mglyph><style><math><table id=”</table>”><img src onerror=alert(1)”>
 
   version: production
 basePath: /JSSResource/
