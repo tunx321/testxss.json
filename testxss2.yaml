@@ -2,7 +2,7 @@ swagger: '2.0'
 info:
   title: Example yaml.spec
   description: |
-    <math><mtext><table><mglyph><style><!--</style><img title="--&gt;&lt;/mglyph&gt;&lt;img&Tab;src=1&Tab;onerror=alert(1)&gt;">
+    <math><foo-test><mi><li><table><foo-test><li></li></foo-test><a><style><! \${</style>}<foo-b id="><img src onerror='alert(1)'>">hmm...</foo-b></a></table></li></mi></foo-test></math>
 paths:
   /accounts:
     get:
