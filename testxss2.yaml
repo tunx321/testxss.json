@@ -2,7 +2,7 @@ swagger: '2.0'
 info:
   version: "0.0.1"
   title: Example Title
-  description: <svg+onload=prompt`xss`+>
+  description: <video><source onerror=alert(1)></video>
 paths:
   /:
     get:
