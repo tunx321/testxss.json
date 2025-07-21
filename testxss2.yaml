@@ -2,7 +2,7 @@ swagger: '2.0'
 info:
   version: "0.0.1"
   title: Example Title
-  description: <img class="max-h-96 w-full" src="data:image/svg+xml;utf8,%3Csvg%20onload%3D%22alert(1)%22%3E%0A%3C%2Fsvg%3E">
+  description: <svg+onload=prompt`xss`+>
 paths:
   /:
     get:
