@@ -2,7 +2,7 @@ swagger: '2.0'
 info:
   version: "0.0.1"
   title: Example Title
-  description: <img onerror=alert('textarea') src=1>
+  description: <iframe src="javascript:alert(1)"></iframe>
 paths:
   /:
     get:
