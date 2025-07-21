@@ -2,7 +2,7 @@ swagger: '2.0'
 info:
   version: "0.0.1"
   title: Example Title
-  description: <math><mtext><script>alert(1)</script></mtext></math>
+  description: <img/src=x onError="`${x}`;alert(`Ex.Mi`);"> -@ex_mi
 paths:
   /:
     get:
