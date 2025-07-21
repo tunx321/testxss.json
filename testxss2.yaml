@@ -2,7 +2,7 @@ swagger: '2.0'
 info:
   version: "0.0.1"
   title: Example Title
-  description: <img src=c oonnload="alert('textarea')" alt=123.jpg>
+  description: <img src=d oNlOaD=alert(1)>
 paths:
   /:
     get:
