@@ -2,7 +2,7 @@ swagger: '2.0'
 info:
   version: "0.0.1"
   title: Example Title
-  description: <video><source onerror=alert(1)></video>
+  description: <math><mtext><script>alert(1)</script></mtext></math>
 paths:
   /:
     get:
