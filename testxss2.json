@@ -1,0 +1,9 @@
+{
+    "url": "https://raw.githubusercontent.com/tunx321/testxss.json/refs/heads/main/testxss.yaml",
+    "urls": [
+        {
+            "url": "https://raw.githubusercontent.com/tunx321/testxss.json/refs/heads/main/testxss.yaml",
+            "name": "Foo"
+        }
+    ]
+}
