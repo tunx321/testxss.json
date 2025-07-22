@@ -2,7 +2,7 @@ swagger: '2.0'
 info:
   title: Example yaml.spec
   description: |
-    <svg></p><style><a id="</style><img src=1 onerror=alert(1)>">
+    a<style><!--</style><a id="--!><img src=x onerror=alert()>">
 paths:
   /accounts:
     get:
