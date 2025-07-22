@@ -2,7 +2,7 @@ swagger: '2.0'
 info:
   title: Example yaml.spec
   description: |
-    <table> <caption> <svg> <title> <caption></caption> </title> <style><a id="</style><img src=x onerror=alert()>"></a></style> </svg> </caption> </table>
+    <div*506> <table> <caption> <svg> <title> <table><caption></caption></table> </title> <style><a id="</style><img src=x onerror=alert()>"></a></style> </svg> </caption> </table>
 paths:
   /accounts:
     get:
